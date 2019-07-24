@@ -33,13 +33,31 @@ h7 {
 }
 h8 {
   background: black
+}
+h10 {
+  background: orange
+}
+h10 {
+  font-size: 30px
+}
+h11 {
+  background: yellow
+}
+h11 {
+  font-size: 20px
+}
+h14 {
+  background: black
+}
+h14{
+  color: white
 </style>
 <html>
  <head>
    <title>advice</title>
  </head> 
  <body>
-   <h1>advice giving</h1>
+   <h1>Advice Giving</h1>
    <h2>ad·vice
 /ədˈvīs/
  Learn to pronounce
@@ -66,5 +84,21 @@ a formal notice of a financial transaction.
 <br>
 <br>
 <h9>This whole page isn't meant for putting pressure at all. I'm supporting you and other people to ask for help. This is where adivce comes in.</h9>
+<br>
+<br>
+<h10>Wise words?</h10>
+<br>
+<br>
+<h11>Words are as powerful as physical contact. you have to be careful with the words that come out of your mouth. they can slip out and make you regret.</h11>
+<br>
+<br>
+<h12>What you say can affect someone ina second. If you say someing hurtful, their mood wouldn't be good. do the opposite and they wold either be smiling or maybe get some confidence. the main point is that words can affect people easily. as a human, the emotins that goes everywhere in you can change instantly.</h12>
+<br>
+<br>
+<h13>Changing the subject abit, you can get wise words from someone that lived in this world longer than you because they have some kid experience. plus, they are older, right?</h13>
+<br>
+<br>
+<h14>[Maybe not someone 3years younger than you though. i would suggest grandparents or parents. they might be the most helpful, not including professional therapists]</h14>
+
 </body>
 </html>
